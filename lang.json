@@ -1,0 +1,15 @@
+{
+    "lang_found": "Language file was found!",
+    "closing_file": "Closing this file!",
+    "start_qube_file": "Starting the main qube file",
+    "github_link": "Follow me on GitHub -> https://github.com/EnteFanPHP",
+    "how_long_start_qube_file": "This will take about 10 seconds!",
+    "after_downloading_nukkit": "After downloading Nukkit please consider to run termux-chroot",
+    "question1_which_software": "Which server software do you want to download?\n(1) PocketMine-MP Latest\n(2) BetterAltay Latest\n(3) Nukkit Latest",
+    "answer1_question1": "",
+    "unkown_server_software": "Unkown Server Software!",
+    "try_again": "Try again!",
+    "selected_pocketminemp": "You selected PocketMine-MP!",
+    "selected_nukkit": "You selected Nukkit!",
+    "selected_altay": "You selected Altay!"
+}
