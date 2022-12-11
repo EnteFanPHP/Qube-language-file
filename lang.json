@@ -1,5 +1,4 @@
-// Written in JSON
-// By: Khaled Daghstani
+// Write2
 {
     "lang_found": "Language file was found!",
     "closing_file": "Closing this file!",
@@ -15,4 +14,3 @@
     "selected_nukkit": "You selected Nukkit!",
     "selected_altay": "You selected Altay!"
 }
-
